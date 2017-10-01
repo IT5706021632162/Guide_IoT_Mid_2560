@@ -1,7 +1,0 @@
-ต่อ DHT22 D4
-
-แก้ KEY 
-const char *userid = "000980";     
-const char *key = "5fyt7m2kuikp"; กด My IoT garage
-
-แก้ wifi
